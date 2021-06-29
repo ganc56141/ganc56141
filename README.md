@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganc56141
+- 👋 Hi, I’m Felix Gan
 - 👀 I’m interested in Large Dataset Analysis
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on anything related to ML, NLP, or simulations
